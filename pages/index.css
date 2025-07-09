@@ -6,3 +6,9 @@
   font-size: 16px;
   line-height: 20px;
 }
+
+body {
+  font-family: "Noto Serif", serif;
+  font-style: italic;
+  font-weight: 400;
+}
